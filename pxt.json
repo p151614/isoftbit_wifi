@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "main.blocks",
-        "isoftbit_wifi.ts"
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
