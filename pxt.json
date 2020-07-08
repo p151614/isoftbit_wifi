@@ -1,7 +1,7 @@
 {
     "name": "isoftbit_wifi",
     "version": "0.0.0",
-    "description": "",
+    "description": "isoftbt支持wifi功能扩展",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "isoftbit_wifi.ts"
     ],
     "testFiles": [
         "test.ts"
